@@ -1,4 +1,4 @@
-# Array Lab: Create, Retrieve, Update, Delete
+lear# Array Lab: Create, Retrieve, Update, Delete
 
 ## Overview
 
