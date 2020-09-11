@@ -35,7 +35,7 @@ We'll use the literal constructor to make a new array with nothing in it:
 
 ```ruby
 def create_an_empty_array
-  []
+ []
 end
 ```
 
